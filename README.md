@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SHMYU77
 - 👀 I’m interested in many intersting things, especially biology.
-- 🌱 I’m currently learning С++
+- 🌱 I’m currently learning Go
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me look me in telegram https://t.me/shmyu97
 - 😄 Pronouns: he/him
