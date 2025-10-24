@@ -2,7 +2,7 @@
 - 👀 I’m interested in many intersting things, especially biology.
 - 🌱 I’m currently learning Go
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me look me in telegram https://t.me/shmyu97
+- 📫 How to reach me look me in telegram https://t.me/shmyu77
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: bees are awesome
 
